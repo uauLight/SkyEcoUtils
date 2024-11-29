@@ -1,0 +1,11 @@
+messages:
+  annex_success: "&aVocê anexou sua economia a {player} com &b{percent}%."
+  annex_fail: "&cErro ao anexar economia."
+  unannex_success: "&aVocê desanexou sua economia."
+  money_redirected: "&aVocê enviou {amount} para {player} devido ao anexo."
+
+settings:
+  default_percentage: 50.0
+  max_percentage: 100.0
+  min_percentage: 1.0
+  notify_on_redirect: true

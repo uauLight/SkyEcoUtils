@@ -1,0 +1,3 @@
+name: SkyEcoUtils
+version: '${project.version}'
+main: br.com.skyplugins.skyecoutils.SkyPlugins
